@@ -1,1 +1,1 @@
-"# EE5806-Topics-in-Image-Processing" 
+# EE5806-Topics-in-Image-Processing
